@@ -1,0 +1,10 @@
+smtpserver: smtp.exmail.qq.com
+user: ganyu@lookdoor.com
+password: Gy329329
+
+sender: ganyu@lookdoor.com
+receives: ganyu@lookdoor.com
+
+subject: 黔农云登录测试报告
+
+filename: 黔农云登录测试报告

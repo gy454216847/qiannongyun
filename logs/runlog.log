@@ -1,0 +1,172 @@
+2020-09-15 17:06:13,351 myunit.py[line:10] INFO ======Open app======
+2020-09-15 17:06:13,355 desired_caps.py[line:32] INFO ======start app======
+2020-09-15 17:06:52,119 Test_MainPage.py[line:60] INFO ======test enter my add======
+2020-09-15 17:06:53,881 myunit.py[line:14] INFO ======Close app======
+2020-09-15 17:13:01,499 run.py[line:17] INFO ======start run testcase======
+2020-09-15 17:13:01,499 myunit.py[line:10] INFO ======Open app======
+2020-09-15 17:13:01,504 desired_caps.py[line:32] INFO ======start app======
+2020-09-15 17:13:37,541 Test_MainPage.py[line:60] INFO ======test enter my add======
+2020-09-15 17:13:39,433 myunit.py[line:14] INFO ======Close app======
+2020-09-15 17:13:46,462 run.py[line:22] INFO ======send email======
+2020-09-15 17:14:31,849 run.py[line:17] INFO ======start run testcase======
+2020-09-15 17:14:31,849 myunit.py[line:10] INFO ======Open app======
+2020-09-15 17:14:31,853 desired_caps.py[line:32] INFO ======start app======
+2020-09-15 17:15:09,248 Test_MainPage.py[line:60] INFO ======test enter my add======
+2020-09-15 17:15:11,093 myunit.py[line:14] INFO ======Close app======
+2020-09-15 17:15:15,752 run.py[line:21] INFO ======send email======
+2020-09-16 10:13:28,652 run.py[line:20] INFO ======start run testcase======
+2020-09-16 10:13:28,652 myunit.py[line:10] INFO ======Open app======
+2020-09-16 10:13:28,655 desired_caps.py[line:32] INFO ======start app======
+2020-09-16 10:13:49,972 run.py[line:24] INFO ======send email======
+2020-09-16 10:46:43,773 run.py[line:20] INFO ======start run testcase======
+2020-09-16 10:46:43,774 myunit.py[line:10] INFO ======Open app======
+2020-09-16 10:46:43,777 desired_caps.py[line:32] INFO ======start app======
+2020-09-16 10:47:15,652 run.py[line:24] INFO ======send email======
+2020-09-16 10:47:50,514 run.py[line:20] INFO ======start run testcase======
+2020-09-16 10:47:50,514 myunit.py[line:10] INFO ======Open app======
+2020-09-16 10:47:50,517 desired_caps.py[line:32] INFO ======start app======
+2020-09-16 10:48:22,052 run.py[line:24] INFO ======send email======
+2020-09-22 10:38:51,105 run.py[line:20] INFO ======start run testcase======
+2020-09-22 10:38:51,106 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:38:51,109 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:39:15,486 Test_MainPage.py[line:60] INFO ======test enter my add======
+2020-09-22 10:39:17,467 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:39:20,825 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:39:20,828 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:39:37,335 Test_MainPage.py[line:32] INFO ======test enter my bill======
+2020-09-22 10:39:41,087 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:39:44,368 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:39:44,371 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:40:01,401 Test_MainPage.py[line:39] INFO ======test enter my bonus======
+2020-09-22 10:40:04,506 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:40:07,862 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:40:07,868 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:40:24,933 Test_MainPage.py[line:46] INFO ======test enter my house======
+2020-09-22 10:40:29,287 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:40:32,638 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:40:32,641 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:40:49,462 Test_MainPage.py[line:53] INFO ======test enter my tenant======
+2020-09-22 10:40:53,229 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:40:56,539 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:40:56,542 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:41:13,305 Test_MainPage.py[line:16] INFO ======test hint income======
+2020-09-22 10:41:15,314 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:41:18,652 myunit.py[line:10] INFO ======Open app======
+2020-09-22 10:41:18,655 desired_caps.py[line:32] INFO ======start app======
+2020-09-22 10:41:44,217 Test_MainPage.py[line:24] INFO ======test income help======
+2020-09-22 10:41:46,978 myunit.py[line:14] INFO ======Close app======
+2020-09-22 10:41:50,359 run.py[line:24] INFO ======send email======
+2020-10-12 11:56:12,194 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 11:57:07,693 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:31:09,159 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:31:09,163 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:34:08,989 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:34:08,993 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:36:31,677 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:36:31,682 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:39:04,617 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:39:04,619 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:40:33,094 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:40:33,097 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:40:50,867 Test_Login.py[line:12] INFO ======test login======
+2020-10-12 16:42:53,991 myunit.py[line:20] INFO ======Close app======
+2020-10-12 16:46:12,564 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:46:12,567 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:46:28,771 Test_Login.py[line:12] INFO ======test login======
+2020-10-12 16:48:29,466 myunit.py[line:20] INFO ======Close app======
+2020-10-12 16:58:24,507 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:58:24,510 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 16:58:39,771 Test_Login.py[line:12] INFO ======test login======
+2020-10-12 16:58:59,950 myunit.py[line:20] INFO ======Close app======
+2020-10-12 16:59:45,574 myunit.py[line:13] INFO ======Open app======
+2020-10-12 16:59:45,577 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 17:00:35,165 myunit.py[line:13] INFO ======Open app======
+2020-10-12 17:00:35,167 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 17:01:54,286 myunit.py[line:13] INFO ======Open app======
+2020-10-12 17:01:54,291 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 17:02:18,925 Test_Login.py[line:12] INFO ======test login======
+2020-10-12 17:02:35,324 myunit.py[line:20] INFO ======Close app======
+2020-10-12 17:52:33,105 myunit.py[line:13] INFO ======Open app======
+2020-10-12 17:52:33,108 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 17:52:50,889 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-12 17:52:54,047 myunit.py[line:20] INFO ======Close app======
+2020-10-12 17:56:23,491 myunit.py[line:13] INFO ======Open app======
+2020-10-12 17:56:23,496 desired_caps.py[line:32] INFO ======start app======
+2020-10-12 17:56:41,672 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-12 17:56:42,588 myunit.py[line:20] INFO ======Close app======
+2020-10-13 10:43:47,497 myunit.py[line:13] INFO ======Open app======
+2020-10-13 10:43:47,500 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 10:44:52,035 myunit.py[line:13] INFO ======Open app======
+2020-10-13 10:44:52,038 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 10:45:15,515 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-13 10:45:17,248 myunit.py[line:20] INFO ======Close app======
+2020-10-13 10:53:55,586 myunit.py[line:13] INFO ======Open app======
+2020-10-13 10:53:55,589 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 10:54:12,148 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-13 10:54:21,719 myunit.py[line:20] INFO ======Close app======
+2020-10-13 10:55:34,201 myunit.py[line:13] INFO ======Open app======
+2020-10-13 10:55:34,204 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 10:55:50,590 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-13 10:56:09,510 myunit.py[line:20] INFO ======Close app======
+2020-10-13 10:57:19,123 myunit.py[line:13] INFO ======Open app======
+2020-10-13 10:57:19,160 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 10:57:35,481 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-13 10:58:24,994 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:01:42,294 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:01:42,327 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:01:59,350 Test_Tap.py[line:16] INFO ======test tap======
+2020-10-13 11:12:12,960 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:12:12,963 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:12:29,314 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:12:37,634 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:26:53,594 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:26:53,596 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:27:10,374 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:27:22,936 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:27:35,055 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:27:35,091 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:27:51,947 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:28:04,156 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:29:02,608 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:29:02,643 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:29:19,804 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:30:10,604 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:33:54,461 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:33:54,464 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:34:11,790 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:34:29,875 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:37:40,223 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:37:40,227 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:37:58,250 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:38:26,972 myunit.py[line:20] INFO ======Close app======
+2020-10-13 11:55:33,900 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:55:33,937 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:55:48,115 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:55:48,154 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:56:06,872 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:58:54,465 myunit.py[line:13] INFO ======Open app======
+2020-10-13 11:58:54,467 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 11:59:12,008 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 11:59:15,293 myunit.py[line:20] INFO ======Close app======
+2020-10-13 14:06:46,372 myunit.py[line:13] INFO ======Open app======
+2020-10-13 14:06:46,377 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 14:07:03,403 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 14:07:16,155 myunit.py[line:20] INFO ======Close app======
+2020-10-13 14:16:55,582 myunit.py[line:13] INFO ======Open app======
+2020-10-13 14:16:55,585 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 14:17:14,681 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 14:17:18,357 myunit.py[line:20] INFO ======Close app======
+2020-10-13 14:17:55,033 myunit.py[line:13] INFO ======Open app======
+2020-10-13 14:17:55,036 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 14:18:11,858 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 14:18:21,219 myunit.py[line:20] INFO ======Close app======
+2020-10-13 14:22:06,536 myunit.py[line:13] INFO ======Open app======
+2020-10-13 14:22:06,541 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 14:22:23,625 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 14:22:48,392 myunit.py[line:20] INFO ======Close app======
+2020-10-13 14:28:16,187 run.py[line:20] INFO ======start run testcase======
+2020-10-13 14:28:16,188 myunit.py[line:13] INFO ======Open app======
+2020-10-13 14:28:16,191 desired_caps.py[line:32] INFO ======start app======
+2020-10-13 14:28:33,625 Test_Tap.py[line:15] INFO ======test tap======
+2020-10-13 14:28:52,789 myunit.py[line:20] INFO ======Close app======
+2020-10-13 14:28:56,199 run.py[line:24] INFO ======send email======
